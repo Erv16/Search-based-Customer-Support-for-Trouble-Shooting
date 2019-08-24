@@ -1,0 +1,5 @@
+Does it show RAW or Unallocated? If the drive shows as RAW or Unallocated and you have already tried a different port, cable, and computer but you need the data, then you will want to consider data recovery. 
+If you're connecting a new drive, it'll probably look as if it wasn't detected, because it does not have a partition properly configured.
+If you're connecting a drive formatted using a different OS (macOS or Linux) with an unsupported file system, it won't appear on your computer. In this case, the solution is to format the drive using a supported file system.
+For Macintosh, if the drive is not detected in Disk Utility then see the System Information/System Profiler section.
+If you see Code 28 (this may work for others codes too, ie Code 43) then you will need to try to reload the USB drivers for the operating system by inserting your Windows Media, rebooting, and attempting a Repair/Restore.

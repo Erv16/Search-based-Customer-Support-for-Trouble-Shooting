@@ -1,0 +1,5 @@
+If you know that the drive is working correctly, but it won't show up in File Explorer, the drive could be trying to use a letter already in use by another device or the drive letter may be missing.
+The external hard drive itself, under normal circumstances, should be detected by your operating system, without the need of drivers, software, or firmware updates.
+Verify the Seagate external hard drive light is blinking or not. No light means the power adapter is not connected to power.
+If the drive is not detected in Disk Utility then see the System Information/System Profiler section.
+

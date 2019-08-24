@@ -1,0 +1,6 @@
+A bad physical connection is among the most common problems. 
+If your computer doesn't recognize the storage, make sure to use a good data cable.
+While it is possible that your external hard drive may have come with bundled software that may be incompatible with newer operating systems, this is typically just ‘back up’ software, and the drive is not dependent on that software to function.
+If you see Code 10 and have already tried another cable and computer then the drive has probably failed.
+When the drive isn't available on your computer, it could also be a driver issue. You can install the most up-to-date driver available, or you can reinstall the same driver to see if it helps the computer detect the drive.
+If you are using macOS 10.13 or higher then click view in the upper left and select “Show All Devices” which allows you to see both the disk as well as volumes.

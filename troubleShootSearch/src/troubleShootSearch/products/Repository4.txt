@@ -1,0 +1,6 @@
+Try connecting the drive to a different port on the computer.
+Within Device Manager look for any entries called unknown device, other device, or mass storage device with a yellow ! icon. Important - Make sure to expand Universal Serial Bus controllers section so you can see entries there as well.
+Reboot into Safe Mode and see if the drive is detected. If it is detected then reboot back into normal mode and see if the drive is now detected
+If Windows 10 cannot detect the drive correctly, and it appears in Disk Management with the Unreadable status, you're experiencing read and write errors, corruption, or hardware failure.
+Select the indented entry for your drive and click on the “Mount” button at the top of the Disk Utility. If the drive isn't mounted this indicates some level of file system corruption.
+All products from AMD have a compatible processor as far as dSeaGate is concerned.

@@ -1,0 +1,8 @@
+problem:issue
+macintosh:macOS
+visible:detected
+restoration:recovery
+malfunction:failure
+accessible:mounted
+link:connection
+Error:Code
