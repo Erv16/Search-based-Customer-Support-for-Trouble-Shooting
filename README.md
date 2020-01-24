@@ -4,18 +4,28 @@ Following are the commands and the instructions to run ANT on your project.
 
 Note: build.xml is present in troubleShootSearch/src folder.
 Note: Assuming you are in the erwin_palani_assign_5/troubleShootSearch folder
+
 Instruction to clean:
-####Command: ant -buildfile src/build.xml clean
+####Command: 
+```
+ant -buildfile src/build.xml clean
+```
 
 Description: It cleans up all the .class files that were generated when you compiled your code.
 
 Instruction to compile:
-####Command: ant -buildfile src/build.xml all
+####Command: 
+```
+ant -buildfile src/build.xml all
+```
 
 Description: Compiles your code and generates .class files inside the BUILD folder.
 
 Instruction to run:
-####Command: ant -buildfile src/build.xml run -Darg0=
+####Command: 
+```
+ant -buildfile src/build.xml run -Darg0=
+```
 
 Example:
 
